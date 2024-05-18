@@ -74,9 +74,4 @@ npm start
 
 ## Note
 If the application does not load anything, or if the search function does not work, most likely the daily Youtube API quota has been exceeded. Please wait for sometime and try again.
-# YTplay
-# YTplay
-# Yplay
-# Yplay
-# Yplay
-# Yplay
+
