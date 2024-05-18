@@ -4,7 +4,7 @@ A highly performant video streaming platform built using React, Redux Toolkit, T
 
 This project was created using [Vite](https://vitejs.dev/guide/).
 
-Live URL: [YouPlay](https://youplay-v1.netlify.app/)
+Live URL: [YouPlay](https://yplay-rohit016more.vercel.app/)
 
 <br />
 
